@@ -1,25 +1,30 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f138fc61.css",
-    "main.js": "/portfolio/static/js/main.194f1bcc.js",
+    "main.js": "/portfolio/static/js/main.ed4e0abb.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/tripute.jpeg": "/portfolio/static/media/tripute.f908b1bc705c763d32dc.jpeg",
+    "static/media/zomato.jpeg": "/portfolio/static/media/zomato.eb38aba3542344838714.jpeg",
+    "static/media/learning.jpeg": "/portfolio/static/media/learning.381fb4b417b45e5394bb.jpeg",
     "static/media/support.jpeg": "/portfolio/static/media/support.71979f307698e9b2f2eb.jpeg",
     "static/media/portfolio-image.jpeg": "/portfolio/static/media/portfolio-image.79e672725bd46d0c23be.jpeg",
+    "static/media/admin.jpeg": "/portfolio/static/media/admin.2d3aefc587869252e053.jpeg",
     "static/media/ecart.png": "/portfolio/static/media/ecart.438d5ee591bc137e102b.png",
     "static/media/mypicture2.jpg": "/portfolio/static/media/mypicture2.d1dfb11248e9f5c68cf6.jpg",
-    "static/media/PrivateChat.png": "/portfolio/static/media/PrivateChat.9de5dd811354e7da0d67.png",
+    "static/media/list.jpeg": "/portfolio/static/media/list.29689e79fd1406b48bb3.jpeg",
     "static/media/linkedIn_PNG8.png": "/portfolio/static/media/linkedIn_PNG8.a7ba96474db96a84f358.png",
+    "static/media/calculator.jpeg": "/portfolio/static/media/calculator.827b1172707cd2370c3c.jpeg",
     "static/media/gmail_logo.png": "/portfolio/static/media/gmail_logo.b89833dfc0dda2bfe495.png",
     "static/media/phoney.webp": "/portfolio/static/media/phoney.2020bfdd68547c5d8fc7.webp",
     "static/media/logo.png": "/portfolio/static/media/logo.dbb6b39cab8dbd768adf.png",
     "static/media/pre.svg": "/portfolio/static/media/pre.74b00c043f4cea5fb393.svg",
     "index.html": "/portfolio/index.html",
     "main.f138fc61.css.map": "/portfolio/static/css/main.f138fc61.css.map",
-    "main.194f1bcc.js.map": "/portfolio/static/js/main.194f1bcc.js.map",
+    "main.ed4e0abb.js.map": "/portfolio/static/js/main.ed4e0abb.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f138fc61.css",
-    "static/js/main.194f1bcc.js"
+    "static/js/main.ed4e0abb.js"
   ]
 }
